@@ -1,0 +1,28 @@
+*{
+    background-color:goldenrod;
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    color: springgreen;
+}
+.grid1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: rgb(35, 6, 196);
+    
+    
+}
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: maroon;
+}
+.grid3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: cyan;
+}
